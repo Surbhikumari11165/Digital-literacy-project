@@ -26,18 +26,18 @@ digital-literacy-project/
 │ └── infographic.png
 │
 ├── task-2-portfolio/
-│ ├── github-profile.png
-│ ├── linkedin-profile.png
-│ └── kaggle-profile.png
+│ ├── github-profile.jpeg
+│ ├── linkedin-profile.jpeg
+│ └── kaggle-profile.jpeg
 │
 ├── task-3-platforms/
 │ ├── hackerrank-screenshot.png
-│ ├── google-form.png
+│ ├── google-form.jpeg
 │ └── responses-sheet.png
 │
 ├── task-4-email-etiquette/
-│ ├── email1.txt
-│ ├── email2.txt
+│ ├── email-extension-request.txt
+│ ├── email-internship-request.txt
 │ └── social-media-checklist.txt
 │
 ├── task-5-cybercrime/
