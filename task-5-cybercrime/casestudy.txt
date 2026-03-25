@@ -1,1 +1,7 @@
+UPI fraud is one of the fastest-growing cybercrimes in India, driven by the rapid adoption of digital payment systems. In a typical case, a fraudster contacts the victim through a phone call, SMS, or social media, pretending to be a bank representative, delivery agent, or customer support executive. The attacker gains the victim’s trust and sends a “collect request” or asks them to scan a QR code under the false claim that it is required to receive money.
 
+In reality, UPI systems work in such a way that entering a PIN always authorizes a payment, not a receipt. Due to a lack of awareness, the victim unknowingly approves the transaction, resulting in money being transferred to the fraudster’s account. In some cases, attackers also create fake payment apps or phishing websites to steal login credentials and OTPs.
+
+This type of fraud commonly targets students, job seekers, and elderly individuals who may not fully understand digital payment mechanisms. The consequences include financial loss, emotional stress, and potential identity theft. Recovery of funds is often difficult if the fraud is not reported immediately.
+
+With increasing reliance on digital platforms, awareness and education about such scams are essential. Users must verify requests carefully and understand that receiving money never requires entering a UPI PIN.
