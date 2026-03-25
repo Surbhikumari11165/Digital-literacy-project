@@ -1,7 +1,11 @@
-UPI fraud is one of the fastest-growing cybercrimes in India, driven by the rapid adoption of digital payment systems. In a typical case, a fraudster contacts the victim through a phone call, SMS, or social media, pretending to be a bank representative, delivery agent, or customer support executive. The attacker gains the victim’s trust and sends a “collect request” or asks them to scan a QR code under the false claim that it is required to receive money.
+UPI fraud is a rapidly increasing cybercrime in India due to the widespread use of digital payment systems. Fraudsters take advantage of people’s lack of awareness and trust in digital platforms.
 
-In reality, UPI systems work in such a way that entering a PIN always authorizes a payment, not a receipt. Due to a lack of awareness, the victim unknowingly approves the transaction, resulting in money being transferred to the fraudster’s account. In some cases, attackers also create fake payment apps or phishing websites to steal login credentials and OTPs.
+In a typical case, attackers contact victims by pretending to be bank officials, customer support agents, or delivery personnel. They try to gain trust and then send a payment request or ask the user to scan a QR code.
 
-This type of fraud commonly targets students, job seekers, and elderly individuals who may not fully understand digital payment mechanisms. The consequences include financial loss, emotional stress, and potential identity theft. Recovery of funds is often difficult if the fraud is not reported immediately.
+Many users do not realize that entering a UPI PIN always authorizes a payment, not a receipt. As a result, victims unknowingly transfer money to the fraudster’s account.
 
-With increasing reliance on digital platforms, awareness and education about such scams are essential. Users must verify requests carefully and understand that receiving money never requires entering a UPI PIN.
+In some cases, attackers also use phishing links or fake applications to steal login credentials and personal information. This makes the fraud more dangerous and difficult to detect.
+
+This type of cybercrime mainly targets students, job seekers, and elderly individuals. The consequences include financial loss, emotional stress, and risk of identity theft.
+
+Therefore, it is important to stay alert and verify all transactions carefully before taking any action on digital payment platforms.
